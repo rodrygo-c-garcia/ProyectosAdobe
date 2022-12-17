@@ -4,3 +4,4 @@ integrantes:
 - Raysa
 - Jhojan
 - Beymar 
+- Rodrigo
