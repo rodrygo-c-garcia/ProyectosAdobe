@@ -1,2 +1,2 @@
 ### Prototipo de un ERP ORACLE CLOUD
-trabajo en grupo
+trabajo en grupo de 4to Semestre
