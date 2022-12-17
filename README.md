@@ -3,3 +3,4 @@ trabajo en grupo de 4to Semestre de la USFX
 integrantes:
 - Raysa
 - Jhojan
+- Beymar 
